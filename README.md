@@ -68,16 +68,6 @@ To run this project on your own:
 
 ---
 
-## Sample Outputs
-
-<p float="left">
-  <img src="samples/photo.jpg" width="256"/>
-  <img src="samples/monet_a.jpg" width="256"/>
-  <img src="samples/monet_b.jpg" width="256"/>
-</p>
-
----
-
 ## License
 
 This project is open-source and free to use for educational and research purposes.
